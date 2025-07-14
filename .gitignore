@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code settings (optional, if you're using VS Code)
+.vscode/
+
+# Ignore log files
+*.log
