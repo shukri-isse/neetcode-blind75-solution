@@ -1,3 +1,4 @@
+// Brute force solution
 class Solution {
     /**
      * @param {string} s

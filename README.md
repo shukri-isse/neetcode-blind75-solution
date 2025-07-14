@@ -28,5 +28,5 @@ This repo contains my personal practice solutions to the NeetCode Blind 75 probl
 - Bit Manipulation
 
 ## Progress
-- [x] Started practicing
-- ...
+- [x] Contains Duplicates
+- [X] Valid Anagram
